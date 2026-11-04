@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Ваш заказ прибыл",
+      "body": "Курьер у двери. Сен сұлусың 🤍"
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}

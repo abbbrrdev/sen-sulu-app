@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Заказ собран",
+      "body": "Упаковали каждую баночку с любовью. Скоро передадим в доставку."
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}

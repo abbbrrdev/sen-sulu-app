@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Заказ в пути",
+      "body": "Курьер СДЭК привезёт заказ 1–2 ноября."
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}

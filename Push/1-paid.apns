@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Оплата прошла",
+      "body": "Заказ SS-10427 оплачен через Kaspi Gold. Уже собираем 🤍"
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}

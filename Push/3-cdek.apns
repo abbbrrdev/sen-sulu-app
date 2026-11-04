@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Передан в СДЭК",
+      "body": "Трек-номер 1094 5532 81 — статус теперь в приложении."
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}

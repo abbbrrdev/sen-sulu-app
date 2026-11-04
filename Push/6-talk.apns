@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "abr.Sen-Sulu",
+  "aps": {
+    "alert": {
+      "title": "Новый выпуск Sen Sulu Talk",
+      "body": "Румяна Sen Sulu — тот самый важный штрих. Смотрите и покупайте образ."
+    },
+    "sound": "default",
+    "badge": 1
+  }
+}
